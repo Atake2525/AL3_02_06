@@ -1,0 +1,272 @@
+12:53 でビルドが開始されました...
+1>------ ビルド開始: プロジェクト: DirectXGame, 構成: Debug x64 ------
+1>CameraController.cpp
+1>main.cpp
+1>GameScene.cpp
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): error C2220: 次の警告はエラーとして処理されます
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xa0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xa1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xe5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xe7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x137 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x139 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x140 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x141 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x143 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x145 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x147 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x149 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1e4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1e8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1fa から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1fd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1ff から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x201 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x203 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x205 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x207 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x247 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x249 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x24a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x24b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'CameraController.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): error C2220: 次の警告はエラーとして処理されます
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xa0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xa1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xe5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xe7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x137 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x139 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x140 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): error C2220: 次の警告はエラーとして処理されます
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x141 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x143 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x9f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x145 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xa0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x147 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xa1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x149 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xe5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0xe7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x137 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1e4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x139 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1e8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x13f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x140 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x141 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x143 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x145 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1fa から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1fd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x147 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1ff から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x149 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x201 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x203 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x205 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x207 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x247 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x14c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x249 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1e4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x24a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1e8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x24b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'main.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1f8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1fa から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1fd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x1ff から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x201 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x203 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x205 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x207 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x247 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x249 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x24a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>C:\Users\k023g\OneDrive\デスクトップ\2024_codeFile\AL3\課題\AL3-02-06_追従カメラ\DirectXGame\CameraController.h(1,1): warning C4828: オフセット 0x24b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+1>(ソース ファイル 'scene/GameScene.cpp' をコンパイルしています)
+1>プロジェクト "DirectXGame.vcxproj" のビルドが終了しました -- 失敗。
+========== ビルド: 成功 0、失敗 1、最新の状態 0、スキップ 0 ==========
+=========== ビルド は 12:53 で完了し、02.159 秒 掛かりました ==========
