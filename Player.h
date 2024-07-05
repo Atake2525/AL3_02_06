@@ -1,10 +1,32 @@
 #include "Model.h"
 #include "WorldTransform.h"
 
+class MapChipField;
+
 #pragma once
 class Player {
 
 public:
+	// マップとの当たり判定情報
+	struct CollisionMapInfo {
+		bool isHeadColFlag = false;
+		bool isGroundColFlag = false;
+		bool isWallColFlag = false;
+		Vector3 MovePoint;
+	};
+
+	static inline const float kBlank = 1.0f;
+
+	// 角
+	enum Corner {
+		kRightBottom,// 右下
+		kLeftBottom, // 左下
+		kRightTop,   // 右上
+		kLeftTop,    // 左上
+
+		kNumCorner   // 要素数
+	};
+
 	/// <summary>
 	/// 初期化
 	/// </summary>
@@ -27,12 +49,32 @@ public:
 	// プレイヤーの速度を取得するgetter
 	const Vector3& GetVelocity() const { return velocity_; }
 
+	void SetMapChipField(MapChipField* mapChipField) { mapChipField_ = mapChipField; }
+
+	void Move();
+
+	void ReturnMove(const CollisionMapInfo& info);
+
+	void isOverheadCollision(const CollisionMapInfo& info);
+
+	void MapCollision(CollisionMapInfo& info);
+
+	Vector3 CornerPosition(const Vector3& center, Corner corner);
+
 private:
+	// マップてぃっぷによるフィールド
+	MapChipField* mapChipField_ = nullptr;
 	// ワールド変換データ
 	WorldTransform worldTransform_;
 	// ビュープロジェクション
 	ViewProjection* viewProjection_ = nullptr;
 	
+	// キャラクターの当たり判定サイズ
+	static inline const float kWidth = 0.8f;
+	static inline const float kHeight = 0.8f;
+
+	
+
 	// 移動系
 	Vector3 velocity_ = {};
 	static inline const float kAcceleration = 0.02f;

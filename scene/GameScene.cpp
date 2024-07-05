@@ -63,12 +63,19 @@ void GameScene::Initialize() {
 	// 背景クラスの初期化
 	skyDome_->Initialize(modelSkydome_, texturehandle_, &viewProjection_);
 
+	// マップチップ作成
+	mapChipField_ = new MapChipField;
+	mapChipField_->LoadMapChipCsv("Resources/blocks.csv");
+	GenerateBlocks();
+
 	// プレイヤー
 	player_ = new Player();
 	// 座標をマップチップ番号で指定
 	Vector3 playerPosition = mapChipField_->GetMapChipPositionByIndex(1, 18);
 	// プレイヤーキャラの初期化
 	player_->Initialize(model_, texturehandle_, &viewProjection_, playerPosition);
+
+	player_->SetMapChipField(mapChipField_);
 
 	// 追従カメラの作成
 	cameraController_ = new CameraController;
@@ -92,9 +99,6 @@ void GameScene::Initialize() {
 	texturehandle_ = TextureManager::Load("cube/cube.jpg");
 
 
-	mapChipField_ = new MapChipField;
-	mapChipField_->LoadMapChipCsv("Resources/blocks.csv");
-	GenerateBlocks();
 	
 
 	
